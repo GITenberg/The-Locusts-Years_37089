@@ -1,0 +1,34 @@
+_repo: The-Locusts-Years_37089
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sarka, Charles N. (Charles Nicholas)
+    alias: Sarka, Charles Nicolas
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '38636'
+    url: http://www.gutenberg.org/2009/agents/38636
+covers:
+- cover_type: archival
+  image_path: 37089-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Fee, Mary H. (Mary Helen)
+    alias: Fee, Mary Helen
+    gutenberg_agent_id: '5033'
+    url: http://www.gutenberg.org/2009/agents/5033
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Philippines -- Fiction'
+title: The Locusts' Years
+url: http://www.gutenberg.org/ebooks/37089
